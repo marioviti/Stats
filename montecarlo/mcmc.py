@@ -9,6 +9,9 @@ def uniform(a,b):
     return (random.random())*np.abs(a-b) + a
 
 def pi_monteCarlo(N):
+    """
+    rejection sampling method to calculate Pi
+    """
     in_pi = 0
     random.seed()
     x = np.zeros((N,))
