@@ -1,2 +1,3 @@
 # Stats
-Python Numpy Statistical Algorythms
+
+Python Numpy Statistical Algorythms @UPMC Paris Sorbonne Université
